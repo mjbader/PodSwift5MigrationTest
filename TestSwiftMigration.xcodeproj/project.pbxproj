@@ -479,7 +479,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Animony.TestSwiftMigrationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestSwiftMigration.app/TestSwiftMigration";
 			};
@@ -500,7 +500,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Animony.TestSwiftMigrationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestSwiftMigration.app/TestSwiftMigration";
 			};
@@ -520,7 +520,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Animony.TestSwiftMigrationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = TestSwiftMigration;
 			};
@@ -540,7 +540,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = Animony.TestSwiftMigrationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
+				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = TestSwiftMigration;
 			};
